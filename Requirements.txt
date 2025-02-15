@@ -1,0 +1,118 @@
+1. For user/collaborator registration, following details are required:
+    A- Basic Details:
+    -Full Name
+    -Email Address (required)
+    -Password (required)
+    -Confirm Password (required)
+    -Role (Dropdown list: Developer, Designer, Marketer,Legal Expert,Other)
+    
+    B-Skills and Expertise:
+    -Skills (Checkbox list)
+    -Tools (Checkbox list)
+    
+    C-Work Details
+    -Hourly Rate (Numeric input: eg. $50/hour)  
+    -Availability (Dropdown list: Part-Time, Full-Time)
+    -Portfolio (URL: GitHub, LinkedIn, Portfolio Website)
+
+    D-Experience Details
+    -Experience (Dropdown list: 0-1 years, 1-2 years, 2-3 years, 3-4 years, 4-5 years, 5-6 years, 6-7 years, 7-8 years, 8-9 years, 9-10 years)
+    -Past Projects (Text area)
+    -Education (Dropdown list: Bachelor, Master, PhD)
+    -Resume (Upload: PDF, DOC, DOCX)
+    
+    
+    
+    
+2. For Startups registration, following details are required:
+    A-Basic Details:
+    -Startup Name
+    -Email Address (required)
+    -Password (required)
+    -Confirm Password (required)
+    -Startup Description (Text area)
+    -Startup Logo (Upload: Image)
+    -Startup Website (URL)
+    -Industry (Dropdown list: IT, Manufacturing, Healthcare, Finance, Other)
+    -Stage (Dropdown list: Idea, Prototype, Market Validation, Growth, Scaling)
+    -Location (City, State, Country)
+    -Website (URL)
+
+    B-Team Details:
+    -Founder's Name
+    -LinkedIn Profile (URL)
+    -Team Size (Numeric input)
+    
+    C-Funding needs:
+    -Funding Amount Goal(Numeric input)
+    -Funding Type (Dropdown list: Seed, Series A, Series B, Series C)
+    -Use of Funds (Text area)
+    -Equity offered (Numeric percentage)
+
+    D-Upload Documents:
+    -Startup Pitch Deck (Upload: PDF, DOC, DOCX)
+    -Product Brochure (Upload: PDF, DOC, DOCX)
+
+
+    
+3. For Investor registration, following details are required:
+    A-Basic Details:
+    -Investor Name
+    -Email Address (required)
+    -Password (required)
+    -Confirm Password (required)
+    -Role (dropdown: Angel Investor/VC Firm/Corporate Investor)
+    -Organization Name (if applicable).
+
+    B-Investment Preferences:
+    -Industries of Interest (Checkboxes: SaaS, Healthcare, AI, etc.)
+    -Investment Stage (Checkboxes: Pre-seed, Seed, Series A)
+    -Ticket Size (Dropdown list: $10K-$50K, $50K-$500K)
+    -Geographic Focus (Dropdown list: North America, Europe, Global)
+
+    C-Professional Background:
+    -LinkedIn Profile (required)
+    -Past Investments (Text area: list startups or portfolio companies)
+    -Accreditation Status (Checkbox: "I am an accredited investor")
+
+    D-Verification:
+    -Government ID (Upload: for accredited investor verification)
+    -Crunchbase Profile Link (URL, optional)
+
+
+4. Mentor Registration:
+    A-Basic Information:
+    -Full Name (required)
+    -Email (required)
+    -Password (required)
+    -Professional Title (e.g., "Ex-Google Product Lead")
+
+    B-Expertise:
+    -Areas of Mentorship (Checkboxes: Fundraising, Product Strategy, Marketing)
+    -Industry Experience (Dropdown: Tech, Healthcare, etc.)
+
+    C-Availability:
+    -Hours/Week (Dropdown: 1-5, 5-10, 10+)
+    -Preferred Communication (Checkboxes: Email, Video Call, In-Person)
+
+    D-Background:
+    -LinkedIn Profile (required)
+    -Past Mentorship Experience (Text area: startups/incubators mentored)
+
+
+
+
+
+
+
+
+Login Process:
+    A-Required Fields:
+    -Email Address (required)
+    -Password (required)
+    -Remember Me (checkbox)
+    -Forgot Password Link
+
+
+
+
