@@ -1,3 +1,13 @@
+# There will be 3 types of users:
+# 1. User/collaborator
+# 2. Startups
+# 3. Investors
+# 4. Mentors
+
+
+--> So 3 Registration forms will be there. 
+
+
 1. For user/collaborator registration, following details are required:
     A- Basic Details:
     -Full Name
@@ -102,16 +112,6 @@
 
 
 
-
-
-
-
-Login Process:
-    A-Required Fields:
-    -Email Address (required)
-    -Password (required)
-    -Remember Me (checkbox)
-    -Forgot Password Link
 
 
 
