@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="registration-container">
+        <h2>Extra Information</h2>
+        <form action="" method="POST">
+            <div class="form-group">
+                <label for="industry-experience">Industry Experience</label>
+                <select id="industry-experience" name="industry-experience" class="form-control" required>
+                    <option value="tech">Tech</option>
+                    <option value="healthcare">Healthcare</option>
+                    <option value="finance">Finance</option>
+                    <option value="retail">Retail</option>
+                    <option value="manufacturing">Manufacturing</option>
+                    <option value="education">Education</option>
+                    <option value="energy">Energy</option>
+                    <option value="transportation">Transportation</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Areas of Mentorship</label>
+                <div class="skills-checkboxes">
+                    <div class="skill-item">
+                        <input type="checkbox" id="fundraising" name="mentorship-areas[]" value="fundraising">
+                        <label for="fundraising">Fundraising</label>
+                    </div>
+                    <div class="skill-item">
+                        <input type="checkbox" id="product-strategy" name="mentorship-areas[]" value="product-strategy">
+                        <label for="product-strategy">Product Strategy</label>
+                    </div>
+                    <div class="skill-item">
+                        <input type="checkbox" id="marketing" name="mentorship-areas[]" value="marketing">
+                        <label for="marketing">Marketing</label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="availability">Availability</label>
+                <select id="availability" name="availability" class="form-control" required>
+                    <option value="1-5">1-5 hours/week</option>
+                    <option value="5-10">5-10 hours/week</option>
+                    <option value="10+">10+ hours/week</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Preferred Communication</label>
+                <div class="skills-checkboxes">
+                    <div class="skill-item">
+                        <input type="checkbox" id="email" name="communication[]" value="email">
+                        <label for="email">Email</label>
+                    </div>
+                    <div class="skill-item">
+                        <input type="checkbox" id="video-call" name="communication[]" value="video-call">
+                        <label for="video-call">Video Call</label>
+                    </div>
+                    <div class="skill-item">
+                        <input type="checkbox" id="in-person" name="communication[]" value="in-person">
+                        <label for="in-person">In-Person</label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="linkedin-profile">LinkedIn Profile</label>
+                <input type="url" id="linkedin-profile" name="linkedin-profile" class="form-control"
+                    placeholder="https://www.linkedin.com/in/your-profile" required>
+            </div>
+            <div class="form-group">
+                <label for="past-mentorship">Past Mentorship</label>
+                <textarea id="past-mentorship" name="past-mentorship" class="form-control"
+                    placeholder="List your previous startups/incubators mentored" required></textarea>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

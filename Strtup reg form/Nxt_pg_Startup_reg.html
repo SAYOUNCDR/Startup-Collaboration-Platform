@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet">
+    <title>Extra Information</title>
+</head>
+<body>
+    <div class="registration-container">
+        <h2>Extra Information</h2>
+        <form action="" method="POST">
+            <div class="form-group">
+                <label for="founder-name">Founder's Name</label>
+                <input type="text" id="founder-name" name="founder-name" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="linkedin-profile">LinkedIn Profile</label>
+                <input type="url" id="linkedin-profile" name="linkedin-profile" class="form-control" required>
+            </div>
+            <div class="form-group" style="display: flex; gap: 20px;">
+                <div style="flex: 3;">
+                    <label for="team-size">Team Size</label>
+                    <input type="number" id="team-size" name="team-size" class="form-control" required>
+                </div>
+                <div style="flex: 1;">
+                    <label for="funding-needed">Funding Needed</label>
+                    <input type="number" id="funding-needed" name="funding-needed" class="form-control" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="pitch-deck">Pitch Deck</label>
+                <input type="file" id="pitch-deck" name="pitch-deck" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="brochure">Brochure</label>      
+                <input type="file" id="brochure" name="brochure" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label>
+                <textarea id="description" name="description" class="form-control" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="logo">Logo</label>
+                <input type="file" id="logo" name="logo" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>   
+            </div>
+        </form>
+    </div>
+</body>
+</body>
+</html>

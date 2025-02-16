@@ -4,7 +4,7 @@
 # 3. Investors
 # 4. Mentors
 
-
+# Logs --> date 17/2/2025  made all registration form html files.
 --> So 3 Registration forms will be there. 
 
 
@@ -40,8 +40,6 @@
     -Email Address (required)
     -Password (required)
     -Confirm Password (required)
-    -Startup Description (Text area)
-    -Startup Logo (Upload: Image)
     -Startup Website (URL)
     -Industry (Dropdown list: IT, Manufacturing, Healthcare, Finance, Other)
     -Stage (Dropdown list: Idea, Prototype, Market Validation, Growth, Scaling)
@@ -62,6 +60,8 @@
     D-Upload Documents:
     -Startup Pitch Deck (Upload: PDF, DOC, DOCX)
     -Product Brochure (Upload: PDF, DOC, DOCX)
+    -Startup Description (Text area)
+    -Startup Logo (Upload: Image)
 
 
     
