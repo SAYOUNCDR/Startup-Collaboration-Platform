@@ -112,7 +112,114 @@
 
 
 
+# -------------------------------------------------------------------------------------
+#  Main website features:
 
+1. Home Page:
+    a) Navigation Bar
+        -Logo
+        -Search bar
+        -Login button 
+        -Signup button
+        -About us
+            -Who we are
+            -How it works
+            -Requirements for registration
+            -FAQ
+            -Blog
+        -Directories
+            -Startup Directory
+            -Investor Directory
+            -Mentor Directory
+            -Collaborator Directory
+            -Job Directory
+        -Events
+            -Upcoming Events
+            -Past Events
+            -Create Event
+            -Seminars
+            -Webinars
+            -Meetups
+            -Hackathons
+        -Resources
+            -Articles
+            -Podcasts
+            -Videos
+            -Books
+            -Webinars
+            -E-Books
+        -Contribute
+            -Write an Article
+            -Organize an Event
+            -Solve Company Problems
+        -Contact us
 
+    b) Hero Section with Carousel
+        -Featured startups and investors carousel with large images
+        -Action buttons overlaid on carousel:
+            -Find Collaborators
+            -Find Startups  
+            -Find Investors
+            -Find Mentors
+            -Find Jobs
 
+    c) Key Statistics/Numbers
+        -Total startups registered
+        -Total investment facilitated
+        -Number of successful matches
+        -Active mentors/investors
+        -Job opportunities created
+
+    d) Featured Categories/Quick Links
+        -Popular industry sectors
+        -Trending startup categories
+        -Most active investors
+        -Hot job opportunities
+
+    e) Call-to-Action Sections
+        -Register as Startup
+        -Become an Investor
+        -Join as Mentor
+        -Find Opportunities
+
+    f) Success Stories/Testimonials
+        -Featured successful startup stories
+        -User testimonials
+        -Success metrics
+        -Statistics
+
+    g) Latest News & Updates
+        -Recent funding news
+        -New startup launches
+        -Industry updates
+        -Ecosystem highlights
+
+    h) Social Proof
+        -Partner logos
+
+    i) Quick Start Guide
+        -How it works
+        -Platform benefits
+        -Getting started steps
+
+    j) Newsletter Subscription
+        -Email signup form
+        -Updates subscription options
+
+    k) Mobile App Section
+        -App store download buttons
+        -Key app features
+        -Mobile benefits
+    l)FAQ Section
+        -Frequently asked questions
+        -Answers
+        -Helpful tips
+
+    m)Footer
+        -Social media links
+        -Contact information
+        -Legal information
+        -Privacy policy
+        -Terms of service
+    
 
